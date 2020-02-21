@@ -1,0 +1,16 @@
+.outer {
+  margin-top: 10px;
+}
+
+.block {
+  padding-left: 40px;
+  float: left;
+}
+.chart rect{
+  fill:Steelblue;
+}
+.chart text{
+  fill:white;
+  font:10px sans-serif;
+  text-anchor:middle;
+}
